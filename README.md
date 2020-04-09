@@ -13,3 +13,10 @@ As these word-images are smaller than images of complete text-lines, the NN can 
 
 
 ![Screenshot](./doc/1.png)
+
+
+<b> 2) ateva_main.py </b>
+
+![Screenshot](./doc/2.png)
+
+
