@@ -10,4 +10,6 @@ As these word-images are smaller than images of complete text-lines, the NN can 
 
 
 <b>OUTPUT:</b>
+
+
 ![Screenshot](./doc/1.png)
