@@ -7,3 +7,7 @@ As these word-images are smaller than images of complete text-lines, the NN can 
 ###accuracy
 
 74% of the words from the IAM dataset are correctly recognized by the NN when using vanilla beam search decoding.
+
+
+<b>OUTPUT:</b>
+![Screenshot](./doc/1.png)
